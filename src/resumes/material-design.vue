@@ -96,7 +96,6 @@
     <div class="title">
       <h2>{{person.name.first}} {{person.name.middle}} {{person.name.last}}</h2>
       <div>{{person.position}}</div>
-      <div>{{person.about}}</div>
     </div>
 
     <div class="section-headline">{{ lang.experience }}</div>
@@ -108,6 +107,7 @@
           {{experience.description}}
         </p>
     </div>
+    
     <div class="section-headline">{{ lang.education }}</div>
     <div class="block" v-for="education in person.education" :key="education.degree">
       <div class="block-helper"></div>
@@ -132,6 +132,9 @@ export default Vue.component(name, getVueOptions(name));
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="less" scoped>
+.page {
+  height: 100%;
+}
 .resume {
   font-family:'Roboto' !important;
   background:#cccccc;

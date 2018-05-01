@@ -14,26 +14,33 @@ experience:
 - company: Waitrose
   position: Front End Developer
   timeperiod: since June 2015
-  description: Programming and watching cute cat videos.
+  description: Developing a responsive UI framework in React/Redux, Jest, WebPack, Node
 
 - company: Quindell Ltd
   position: Front End Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+  timeperiod: February 2014 - May 2015
+  description: UX/UI design and development using Backbone JS, HTML, CSS, Axure
 
 - company: Sony Computer Entertainment Europe 
   position: Front End Developer
-  timeperiod: March 2014 - December 2014
-  description: SingStar.
+  timeperiod: July 2013 - February 2014
+  description: Design and developing the SingStar website UI, HTML, CSS, JavaScript, Photoshop
+
+- company: Sainsburys 
+  position: Front End Developer
+  timeperiod: February 2013 - July 2013
+  description: Sainsburys Mobile website development. HTML, CSS, JavaScript
+
+- company: Sony Computer Entertainment
+  position: Front End Developer
+  timeperiod: July 2013 - February 2014
+  description:  Little Big Planet and LBP Vita websites for use on PS4, PS3, PS Vita, tablet and mobile using the Twitter Bootstrap responsive design framework
 
 education:
-- degree: Packaging Design - BA (Hons)
-  timeperiod: June 1993
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
 
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+- degree: Certified Scrum Master
+  timeperiod: February 2018
+  # description: Major in Engineering, University B, Los Angeles, USA.
 
 # skill level goes 0 to 100
 skills:
@@ -41,27 +48,30 @@ skills:
   level: 95
 - name: CSS3
   level: 95
-- name: JavaScript
-  level: 75
-- name: Node.js
-  level: 72
 - name: React
   level: 80
 - name: Redux
   level: 80
+- name: JavaScript
+  level: 75
+- name: Node.js
+  level: 72
 - name: ES.Next
   level: 60
+- name: UI/UX
+  level: 75
+- name: Agile/Scrum
+  level: 96
 
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
+knowledge: Certified Scrum Master
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: paul@brownsmith.net
+  phone: 07880 700518
+  street: Camberley
+  city: Surrey
+  website: http://brownsmith.net
+  github: brownsmith
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
 lang: en
 `
