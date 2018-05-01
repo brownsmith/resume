@@ -3,7 +3,6 @@
     Resume
   <br>
 </h1>
-## Info
 
 Forked from [best-resume-ever](https://github.com/salomonelli/best-resume-ever)
 
