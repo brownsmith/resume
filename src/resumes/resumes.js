@@ -7,3 +7,4 @@ import './purple.vue';
 import './side-bar-rtl.vue';
 import './left-right-rtl.vue';
 import './material-design.vue';
+import './paul-brownsmith.vue';

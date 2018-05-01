@@ -7,16 +7,6 @@
     <div class="section-headline">
       {{ lang.contact }}
     </div>
-    <!-- <div class="item">
-      <div class="icon">
-        <i class="material-icons">account_circle</i>
-      </div>
-      <div class="text">
-        <ul>
-          <li> {{person.birth.year}} {{ lang.bornIn }} {{person.birth.location}}</li>
-        </ul>
-      </div>
-    </div> -->
 
     <div class="item">
       <div class="icon">

@@ -70,6 +70,14 @@
         </div>
       </router-link>
     </div>
+    <div class="preview">
+      <router-link v-bind:to="'/resume/paul-brownsmith'">
+        <div class="preview-wrapper">
+          <img src="../assets/preview/resume-material-dark.png" />
+          <span>paul-brownsmith</span>
+        </div>
+      </router-link>
+    </div>
   </div>
 </div>
 </template>
