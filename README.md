@@ -4,7 +4,9 @@
   <br>
 </h1>
 
-[![Build Status](https://travis-ci.org/brownsmith/resume.svg?branch=master)](https://travis-ci.org/brownsmith/resume)
+[![Build Status](https://travis-ci.org/brownsmith/resume.svg?branch=master)](https://travis-ci.org/brownsmith/resume) 
+
+Get yourself a [fresh copy of my resume in PDF format](https://github.com/brownsmith/resume/raw/master/pdf/paul-brownsmith.pdf)
 
 Forked from [best-resume-ever](https://github.com/salomonelli/best-resume-ever)
 
