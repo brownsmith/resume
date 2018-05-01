@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    Resume
+    Resume [![Build Status](https://travis-ci.org/brownsmith/resume.svg?branch=master)](https://travis-ci.org/brownsmith/resume)
   <br>
 </h1>
 
