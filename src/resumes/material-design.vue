@@ -7,16 +7,16 @@
     <div class="section-headline">
       {{ lang.contact }}
     </div>
-    <div class="item">
+    <!-- <div class="item">
       <div class="icon">
         <i class="material-icons">account_circle</i>
       </div>
       <div class="text">
         <ul>
-          <li> {{ lang.born }} {{person.birth.year}} {{ lang.bornIn }} {{person.birth.location}}</li>
+          <li> {{person.birth.year}} {{ lang.bornIn }} {{person.birth.location}}</li>
         </ul>
       </div>
-    </div>
+    </div> -->
 
     <div class="item">
       <div class="icon">
@@ -96,6 +96,7 @@
     <div class="title">
       <h2>{{person.name.first}} {{person.name.middle}} {{person.name.last}}</h2>
       <div>{{person.position}}</div>
+      <div>{{person.about}}</div>
     </div>
 
     <div class="section-headline">{{ lang.experience }}</div>
@@ -124,7 +125,7 @@
 <script>
 import Vue from 'vue';
 import { getVueOptions } from './options';
-let name = 'material-dark';
+let name = 'material-design';
 
 export default Vue.component(name, getVueOptions(name));
 </script>

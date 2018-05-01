@@ -3,34 +3,32 @@ name:
   first: Paul
   middle:
   last: Brownsmith
-about: Hi, my name is John Doe. I"m just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
+about: About me isn't it
 position: Front End Developer
 
 birth:
   year: 1972
-  location: Camberley, Surrey, UK
+  location: London, UK
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
+- company: Waitrose
+  position: Front End Developer
+  timeperiod: since June 2015
   description: Programming and watching cute cat videos.
 
-- company: Company B
-  position: Frontend Developer
+- company: Quindell Ltd
+  position: Front End Developer
   timeperiod: January 2015 - December 2015
   description: Fulfillment of extremely important tasks.
 
-- company: Company C
-  position: Trainee
+- company: Sony Computer Entertainment Europe 
+  position: Front End Developer
   timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+  description: SingStar.
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
+- degree: Packaging Design - BA (Hons)
+  timeperiod: June 1993
   description: Major in Hacking and Computer Penetration, University A, New York, USA.
 
 - degree: Bachelor of Science
@@ -40,21 +38,20 @@ education:
 # skill level goes 0 to 100
 skills:
 - name: HTML5
-  level: 99
+  level: 95
 - name: CSS3
   level: 95
 - name: JavaScript
-  level: 97
+  level: 75
 - name: Node.js
-  level: 93
-- name: Angular 2
-  level: 60
-- name: TypeScript
+  level: 72
+- name: React
+  level: 80
+- name: Redux
   level: 80
 - name: ES.Next
-  level: 70
-- name: Docker
-  level: 99
+  level: 60
+
 knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
   (English and Klingon).
 

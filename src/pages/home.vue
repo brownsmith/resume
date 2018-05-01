@@ -62,6 +62,14 @@
         </div>
       </router-link>
     </div>
+    <div class="preview">
+      <router-link v-bind:to="'/resume/material-design'">
+        <div class="preview-wrapper">
+          <img src="../assets/preview/resume-material-dark.png" />
+          <span>material-design</span>
+        </div>
+      </router-link>
+    </div>
   </div>
 </div>
 </template>
