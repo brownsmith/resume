@@ -1,8 +1,10 @@
 <h1 align="center">
   <br>
-    Resume [![Build Status](https://travis-ci.org/brownsmith/resume.svg?branch=master)](https://travis-ci.org/brownsmith/resume)
+    Resume
   <br>
 </h1>
+
+[![Build Status](https://travis-ci.org/brownsmith/resume.svg?branch=master)](https://travis-ci.org/brownsmith/resume)
 
 Forked from [best-resume-ever](https://github.com/salomonelli/best-resume-ever)
 
@@ -29,19 +31,16 @@ best-resume-ever requires at least node v.8.5.0.
 
 All resumes will be exported to the `pdf/` folder.
 
-<br>
-
 
 ## Creating and Updating Templates
 
 Please read the <a href="DEVELOPER.md">developer docs</a> on how to create or update templates.
 
-<br>
-
 ## Credits
 
-This project uses several open source packages:
+This project uses several open source projects:
 
+* <a href="https://github.com/salomonelli/best-resume-ever" target="_blank">Best Resume Ever</a>
 * <a href="https://github.com/vuejs/vue" target="_blank">Vue</a>
 * <a href="https://github.com/GoogleChrome/puppeteer" target="_blank">Puppeteer</a>
 * <a href="https://github.com/less/less.js" target="_blank">LESS</a>
