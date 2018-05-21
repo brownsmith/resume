@@ -14,7 +14,7 @@ experience:
 - company: Waitrose
   position: Front End Developer
   timeperiod: since June 2015
-  description: Developing a responsive UI framework in React/Redux, Jest, WebPack, Node
+  description: Developing a responsive UI framework in React/Redux/JSX, SASS, Jest
 
 - company: Quindell Ltd
   position: Front End Developer
